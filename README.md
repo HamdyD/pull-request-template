@@ -1,4 +1,4 @@
-# [TEPLATE] for PR
+# [TEMPLATE] for PR
 A simple template for pull request
 
 ```
